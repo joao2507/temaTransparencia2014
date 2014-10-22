@@ -12,10 +12,10 @@
                                 <div class="row clearfix">
                                     <div class="col-md-2 column">
                                         <div class="bann_capt ">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/receita">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/despesas">
                                                 <div class="container-button">
                                                     <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon1.png" alt="">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon6.png" alt="">
                                                         <div class="bann_title">Despesas </div>
                                                     </div>
                                                 </div>
@@ -24,73 +24,11 @@
                                     </div>
                                     <div class="col-md-2 column">
                                         <div class="bann_capt bn__1">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/despesas-com-publicidade">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/receita">
                                                 <div class="container-button">
                                                     <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon2.png" alt="">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon1.png" alt="">
                                                         <div class="bann_title">Receita</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2 column">
-                                        <div class="bann_capt bn__2">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/convenios-e-transferencias">
-                                                <div class="container-button">
-                                                    <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon3.png" alt="">
-                                                        <div class="bann_title">Orçamento Municipal</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2 column">
-                                        <div class="bann_capt bn__3">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/leis">
-                                                <div class="container-button">
-                                                    <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon4.png" alt="">
-                                                        <div class="bann_title">Convênios e Transferências</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2 column">
-                                        <div class="bann_capt bn__2">
-                                            <a href="http://www.joaopessoa.pb.gov.br/semanariooficial">
-                                                <div class="container-button">
-                                                    <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon5.png" alt="">
-                                                        <div class="bann_title">Licitações e Contratos</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-2 column">
-                                        <div class="bann_capt bn__1">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/despesas">
-                                                <div class="container-button">
-                                                    <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon6.png" alt="">
-                                                        <div class="bann_title">Semanário <br> Oficial</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="row clearfix">
-                                    <div class="col-md-2 column">
-                                        <div class="bann_capt bn__1">
-                                            <a href="http://www.joaopessoa.pb.gov.br/licitacoes">
-                                                <div class="container-button">
-                                                    <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon7.png" alt="">
-                                                        <div class="bann_title">Despesas com<br> Publicidade</div>
                                                     </div>
                                                 </div>
                                             </a>
@@ -102,6 +40,68 @@
                                                 <div class="container-button">
                                                     <div class="align-button">
                                                         <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon8.png" alt="">
+                                                        <div class="bann_title">Orçamento Municipal</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 column">
+                                        <div class="bann_capt bn__3">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/convenios-e-transferencias">
+                                                <div class="container-button">
+                                                    <div class="align-button">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon3.png" alt="">
+                                                        <div class="bann_title">Convênios e Transferências</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 column">
+                                        <div class="bann_capt bn__2">
+                                            <a href="http://www.joaopessoa.pb.gov.br/licitacoes">
+                                                <div class="container-button">
+                                                    <div class="align-button">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon7.png" alt="">
+                                                        <div class="bann_title">Licitações e Contratos</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 column">
+                                        <div class="bann_capt bn__1">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/semanariooficial">
+                                                <div class="container-button">
+                                                    <div class="align-button">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon5.png" alt="">
+                                                        <div class="bann_title">Semanário <br> Oficial</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row clearfix">
+                                    <div class="col-md-2 column">
+                                        <div class="bann_capt bn__1">
+                                            <a href="http://www.joaopessoa.pb.gov.br/despesas-com-publicidade">
+                                                <div class="container-button">
+                                                    <div class="align-button">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon2.png" alt="">
+                                                        <div class="bann_title">Despesas com<br> Publicidade</div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2 column">
+                                        <div class="bann_capt bn__2">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/leis">
+                                                <div class="container-button">
+                                                    <div class="align-button">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon4.png" alt="">
                                                         <div class="bann_title">Leis</div>
                                                     </div>
                                                 </div>
@@ -122,10 +122,10 @@
                                     </div>
                                     <div class="col-md-2 column">
                                         <div class="bann_capt ">
-                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/pessoal">
+                                            <a href="http://transparencia.joaopessoa.pb.gov.br/novo/planos">
                                                 <div class="container-button">
                                                     <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon1.png" alt="">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon13.png" alt="">
                                                         <div class="bann_title">Planos e <br>Projetos</div>
                                                     </div>
                                                 </div>
@@ -134,10 +134,10 @@
                                     </div>
                                     <div class="col-md-2 column">
                                         <div class="bann_capt bn__1">
-                                            <a href="http://www.joaopessoa.pb.gov.br/sact">
+                                            <a href="http://www.joaopessoa.pb.gov.br/pessoal">
                                                 <div class="container-button">
                                                     <div class="align-button">
-                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon11.png" alt="">
+                                                        <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon12.png" alt="">
                                                         <div class="bann_title">Pessoal</div>
                                                     </div>
                                                 </div>
@@ -146,7 +146,7 @@
                                     </div>
                                     <div class="col-md-2 column">
                                         <div class="bann_capt ">
-                                            <a href="http://www.joaopessoa.pb.gov.br/recurso">
+                                            <a href="http://www.joaopessoa.pb.gov.br/sact">
                                                 <div class="container-button">
                                                     <div class="align-button">
                                                         <img src="http://transparencia.joaopessoa.pb.gov.br/novo/wp-content/themes/portal2013/nova/img/icon11.png" alt="">
