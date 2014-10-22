@@ -1,0 +1,355 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+body{border-top: 0; margin-top: 0;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+.tooltip{width: 200px;position:absolute;font-size: 11px;display:none;padding: 10px 30px;background:#8aa9d5;opacity:0.90;color:#333;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;}
+
+.banner{background: #000;color: #fff;text-align: center;overflow: hidden;}
+.fullbanner{width: 468px;height: 60px;line-height: 60px;font-size: 20px; overflow:hidden;}
+.fullbanner img {width: 468px;height: 60px;margin:0; padding:0; border:0;}
+.superbanner{width: 728px;height: 90px;line-height: 90px;font-size: 20px; overflow:hidden; border: 1px solid #999;}
+.superbanner img {width: 728px;height: 90px;margin:0; padding:0; border:0;}
+.center{margin: 0 auto;}
+.linha-pontilhada{border-top: #a1a3a6 1px dotted;width: 100%;height: 1px;margin: 5px 0;}
+
+header#principal{height: 185px;background: url('../images/bg-header.png') repeat-x;margin-bottom: 25px;}
+header#principal h1{background: url('../images/logo.png') no-repeat;width: 267px;height: 70px;margin-top: 25px;}
+header#principal h1 a{display: block;width: 267px;height: 70px;text-indent: -999999px;}
+header#principal span.logo-pmjp{display: block;background: url('../images/logo-pmjp-2013.png') no-repeat;width: 157px;height: 64px;margin-top: 22px;}
+header#principal span.logo-pmjp a{display: block;width: 157px;height: 37px;text-indent: -999999px;}
+header#principal .banner{margin-top: 30px;}
+header#principal #navbar{
+    border-top: #bdc0c7 1px solid;
+    border-bottom: #bdc0c7 1px solid;
+    height: 50px;overflow: hidden;
+    width: 100%;margin-top: 6px;
+    position: relative;
+}
+
+header#principal #menu-superior{overflow: hidden;}
+header#principal #menu-superior li{float: left;display: inline;border-right: #6e6d72 2px solid;padding-right: 15px;margin: 15px 15px 0 0;}
+header#principal #menu-superior li a{font-size: 16px;color: #6c6b70;}
+
+/*
+header#principal .icon-twitter{
+    background: url('../images/icon-twitter.png') no-repeat;width: 140px;height: 23px;text-indent: -9999px;
+    position: absolute;top: 22px;right: 245px;
+}
+header#principal .icon-twitter a{display: block;width: 100%;height: 100%;}
+*/
+
+
+
+
+header#principal section#search{position: relative; top: 15px;}
+header#principal section#search input{background-color: #f8f8f8; color: #939598;font-size: 16px;width: 70%; margin: 0 auto; padding: 10px; border: 1px solid #e1e2e3; background-image: url('http://transparencia.joaopessoa.pb.gov.br/wp-content/uploads/2014/07/iconeLupa.png'); background-repeat:no-repeat; background-size: 2em 2em; background-position: right;}
+
+
+section#esic{height: 525px;overflow-y: auto;background: url('../images/bg-esic.png');margin-bottom: 35px;}
+section#esic header{width: 100%;height: 85px;background: url('../images/header-esic.png') no-repeat left center;}
+section#esic form{background-color: #fff;width: 90%;margin: 0 auto 20px auto;padding: 10px;}
+section#esic form label{color: #6e6d72;}
+section#esic form .campo{border: #d4d6d7 1px solid;background-color: #e6e7e8;color: #939598;font-size: 12px;}
+section#esic form .campo.small{width: 100px;}
+section#esic form .campo.medium{width: 200px;}
+section#esic form .campo.full{width: 335px;}
+section#esic form .captcha{float: left;margin-right: 10px;}
+
+section#statsic{height: 75px;overflow-y: auto;margin-bottom: 35px;}
+
+section#noticias h2{font-size: 25px;line-height: 1.1em;}
+section#noticias h2 a{color: #1045a6;}
+section#noticias p{font-size: 15px;line-height: 1.2em;color: #939598;}
+section#noticias #outras-noticias{position: absolute;top: 360px;border-top: #a1a3a6 1px dotted;}
+section#noticias #outras-noticias h3{font-size: 14px;line-height: 1.1em;margin-top: 20px;}
+section#noticias #outras-noticias a{color: #45474a;}
+section#noticias #outras-noticias p{font-size: 13px;line-height: 1.2em;color: #939598;}
+
+section#destaque ul{display: block;margin-top: 25px;height: 60px;}
+section#destaque ul li{
+    font-size: 24px;
+    line-height: 1em;
+    margin: 10px 0;
+    background: url('../images/icon-destaque.png') no-repeat center left;
+    padding-left: 50px;
+    width: 300px;height: 50px;
+    float: left;
+}
+section#destaque ul li.offset{
+    padding-left: 50px;
+    margin-left: 60px;
+}
+section#destaque ul li a{color: #1d499f;}
+
+#acessorapido {width:100%; float:left; height: 80px; background-color:#9CF; margin: 30px 0 0 0;}
+#acessorapido ul {list-style:none; display:inline; width: 80%;}
+#acessorapido li {width: 100px;font-weight: bold; text-align: center; float:left; color:#33F; font-size:18px; text-transform:uppercase; margin: 20px 20px 10px 20px; height:80px;display: table-cell;}
+#acessorapido li a{vertical-align:middle;}
+
+#banner_executivas {width: 760px; margin: 20px 0 0 0; float: left;}
+
+#conteudo {width: 100%; float: left; margin: 0 0 30px 0;}
+#conteudo .titulos {width: 100%; font-size: 28px; font-weight:bolder; margin: 0 0 30px 0; color: #06C; line-height: 110%;}
+#conteudo .descricao_texto {width: 100%; font-size: 16px; color: #333;}
+#conteudo .descricao_texto h7 {width: 100%; font-size: 14px; color: #06F; text-align: right; float: right; clear:both; margin: 10px 0 30px 0;}
+#conteudo p {font-size: 16px; color: #333; margin: 10px 0 10px 0; text-align:justify;}
+#conteudo .comentarios {width: 100%; font-size: 12px; color: #999; display:none;}
+#conteudo .descricao_texto h1 {width: 100%; font-size: 18px; font-weight:bolder;}
+#conteudo .descricao_texto h2 {width: 100%; font-size: 14px; font-weight:bolder;}
+#conteudo .descricao_texto h3 {width: 100%; font-size: 12px; font-weight:bolder;}
+
+#listagem {width:100%; float: left; margin: 0;}
+#listagem .titulocategoria {width:100%; font-size: 24px; font-weight: bold; color: #06F; border-bottom: 1px dashed #ccc; padding-bottom: 5px; margin: 10px 0 20px 0; float: left;}
+#listagem .titulos {width:100%; font-size: 16px; border-left: 5px dashed #06F; padding-left: 5px; margin: 10px 0 15px 0; float: left;}
+#listagem h1 {width: 100%; font-size: 18px; font-weight:bolder;}
+#listagem h2 {width: 100%; font-size: 14px; font-weight:bolder;}
+#listagem h3 {width: 100%; font-size: 12px; font-weight:bolder;}
+#paginacao {width:100%; float: left; margin: 0; background-color:#ccc;}
+
+aside#sidebar{padding-left: 40px;width: 130px;}
+
+aside#sidebar #menu-lateral li{min-height: 60px;padding: 25px 9px 10px 9px;font-size: 12px;text-align: right;position: relative; margin:0; height: 105px; overflow:hidden;}
+aside#sidebar #menu-lateral li h3{font-size: 20px;line-height: 1.1em;letter-spacing: -0.06em;font-weight: 600;}
+
+aside#sidebar #menu-lateral .submenu{padding: 0;margin: 0; height:70px; overflow:hidden;}
+aside#sidebar #menu-lateral .submenu li{padding: 0;margin: 0;margin-bottom: 5px;}
+
+aside#sidebar #menu-lateral li.menu1{background-color: #e6e7e8;}
+aside#sidebar #menu-lateral li.menu1 h3,
+aside#sidebar #menu-lateral li.menu1 ul.submenu li a{color: #939598;}
+aside#sidebar #menu-lateral li.menu2{background-color: #d1d3d4;}
+aside#sidebar #menu-lateral li.menu2 h3,
+aside#sidebar #menu-lateral li.menu2 ul.submenu li a{color: #808285;}
+aside#sidebar #menu-lateral li.menu3{background-color: #bcbec0;}
+aside#sidebar #menu-lateral li.menu3 h3,
+aside#sidebar #menu-lateral li.menu3 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu4{background-color: #a7a9ac;}
+aside#sidebar #menu-lateral li.menu4 h3,
+aside#sidebar #menu-lateral li.menu4 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu5{background-color: #939598;}
+aside#sidebar #menu-lateral li.menu5 h3,
+aside#sidebar #menu-lateral li.menu5 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu6{background-color: #808285;}
+aside#sidebar #menu-lateral li.menu6 h3,
+aside#sidebar #menu-lateral li.menu6 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu7{background-color: #6d6e71;}
+aside#sidebar #menu-lateral li.menu7 h3,
+aside#sidebar #menu-lateral li.menu7 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu8{background-color: #58595b;}
+aside#sidebar #menu-lateral li.menu8 h3,
+aside#sidebar #menu-lateral li.menu8 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu9{background-color: #414042;}
+aside#sidebar #menu-lateral li.menu9 h3,
+aside#sidebar #menu-lateral li.menu9 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu10{background-color: #333;}
+aside#sidebar #menu-lateral li.menu10 h3,
+aside#sidebar #menu-lateral li.menu10 ul.submenu li a{color: #fff;}
+aside#sidebar #menu-lateral li.menu11{background-color: #000;}
+aside#sidebar #menu-lateral li.menu11 h3,
+aside#sidebar #menu-lateral li.menu11 ul.submenu li a{color: #fff;}
+
+
+aside#sidebar #menu-lateral .icon{
+    background: url('../images/sprite-menu-lateral.png');
+    width: 17px;height: 17px;
+    display: block;position: absolute;
+    top:5px;right:5px;
+}
+aside#sidebar #menu-lateral .menu1 .icon{background-position: 0 0;}
+aside#sidebar #menu-lateral .menu2 .icon{background-position: -17px 0;}
+aside#sidebar #menu-lateral .menu3 .icon{background-position: -34px 0;}
+aside#sidebar #menu-lateral .menu4 .icon{background-position: -52px 0;}
+aside#sidebar #menu-lateral .menu5 .icon{background-position: -69px 0;}
+aside#sidebar #menu-lateral .menu6 .icon{background-position: -86px 0;}
+aside#sidebar #menu-lateral .menu7 .icon{background-position: -103px 0;}
+aside#sidebar #menu-lateral .menu8 .icon{background-position: -120px 0;}
+aside#sidebar #menu-lateral .menu9 .icon{background-position: -137px 0;}
+aside#sidebar #menu-lateral .menu10 .icon{background-position: -154px 0;}
+aside#sidebar #menu-lateral .menu11 .icon{background-position: -174px 0;}
+
+footer{
+    background: #e7e7e8 url('../images/bg-footer.png') repeat-x;
+    padding-top: 50px;
+    margin-top: 20px;
+}
+footer ul{width: 180px;float: left;margin-right: 12px;}
+footer ul li{font-size: 17px;font-weight: bold;}
+footer ul li a{color: #414042}
+
+footer ul.submenu{margin-left: 0;width: 100%;float: none;}
+footer ul.submenu li{font-size: 13px;font-weight: normal;}
+
+footer section#rodape{position: relative;padding-bottom: 20px;}
+footer section#rodape .icon-twitter{
+    background: url('../images/logo_pmjpsetransp.png') no-repeat;width: 140px;height: 23px;text-indent: -9999px;
+    position: absolute;top: -40px;right: 0;
+}
+footer section#rodape #pmjp-mini{
+    background: url('../images/logo-pmjp-2013-mini.png') no-repeat; width: 59px; height: 24px;text-indent: -9999px;
+    float: left;margin-right: 20px;
+}
+footer section#rodape #logo-mini{
+    background: url('../images/logo-mini.png') no-repeat;width: 110px;height: 30px;text-indent: -9999px;
+    float: right;margin-left: 20px;
+}
+footer section#rodape #endereco{
+    font-size: 11px;line-height: 1.1em;
+}
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/
+
+.linklove{display:none;}
+
+
+#conteudo a{color: #05a;font-size:15px}
+#conteudo .titulos a{color: #333;}
+
+aside#sidebar.horizontal{padding-left:0;margin-left:0;width:950px;}
+aside#sidebar.horizontal li{float:left;width:140px;}
+
+h1.head{
+    background-color: #EFEFEF;
+    clear: both;
+    color: #666666;
+    line-height: 24px;
+    margin-bottom: 0;
+    margin-top: 30px;
+    padding: 6px;
+    text-align: center;
+}
+
+h3.head{
+    background-color: #333333;
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 2px;
+    text-align: center;
+}
+
+#menu-mini{margin:8px 0;font-size:11px;float:right;}
+#menu-mini li{float:left;margin-left:10px;padding-left:10px;border-left: #ddd 1px solid;}
+#menu-mini li a{color: #1045A6;}
+
+/* =WordPress Core
+-------------------------------------------------------------- */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
