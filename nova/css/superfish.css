@@ -58,14 +58,14 @@ nav {
 }
 
 .sf-menu>li.sfHover>a, .sf-menu>li>a:hover, .sf-menu>li:hover {
-    color: #fff;
     background-color: #ceced0;
+    font-weight: bold;
 }
 
 .sf-menu>li.current>a{}
 
 .sf-menu>li>ul>li>a.sf-with-ul:after {
-    content: '?';
+    content: '>';
     font-family: 'FontAwesome';
     position: absolute;
     width: 5px;
@@ -73,7 +73,7 @@ nav {
     line-height: 13px;
     font-weight: normal;
     right: 20px;
-    color: #fff;
+    color: #444;
     bottom: 11px;
     pointer-events: none;
     z-index: 999;
@@ -86,23 +86,24 @@ nav {
     z-index: 999; 
     width: 250px;
     background-color: #c5c3c5;
-    top: 95px;
-    padding-bottom: 1px;
-    background: #ceced0 0 0 repeat-x;
+    top: 99px;
+    padding-bottom: 0;
+    background: #727176 0 0 repeat-x;
 }
 
 
 
 .sf-menu li ul li {
     position: relative;
-    padding-top: 2px;
+    padding-top: 0;
     float: none !important;
+    border-bottom: #979690 1px solid;
 }
 
 
 .sf-menu li ul li a{
     position: static;
-    font-size: 11px;
+    font-size: 12px;
     line-height: 1.5em;
     padding: 10px 15px;
     display: block;
@@ -115,6 +116,7 @@ nav {
 .sf-menu li li a:hover, 
 .sf-menu li.sfHover li.sfHover>a {  
     background-color: #120d0c;
+    color:#fff;
 }
 
 /*================================>> 3 Level <<========================================*/
